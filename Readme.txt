@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Thanks visiting the Github repo for the website! It was made using the templates mentioned below. Special thanks to the amazing team.
 
 Template Name: Knight
 Template URL: https://bootstrapmade.com/knight-free-bootstrap-theme/
